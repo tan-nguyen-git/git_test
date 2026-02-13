@@ -1,2 +1,2 @@
 # git_test
-Hello Odin
+This is leetcode solution and addition note for each quesiton
